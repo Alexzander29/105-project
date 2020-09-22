@@ -1,0 +1,6 @@
+#ignore following
+.ds_Store
+Thumbs.db
+wp-config.php
+.htaccess
+wp-content/uploads
